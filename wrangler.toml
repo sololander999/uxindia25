@@ -1,0 +1,5 @@
+name = "ux-india-2025"
+compatibility_date = "2025-09-10"
+
+[pages_build_output]
+dir = "."
